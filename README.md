@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" class="header"
-  <h1>hey there 👋</h1>
+  <h1 font-size="30">hey there 👋</h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="600" height="300"/>
