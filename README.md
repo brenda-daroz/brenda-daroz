@@ -31,3 +31,13 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :woman_technologist: About Me:
+
+I am a Front-end Developer from Brazil, currently living in Berlin.
+
+- :telescope: I’m looking for a first role as a Software Engineer contributing to frontend for building web applications.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brendadz/)
