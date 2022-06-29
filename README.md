@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **brenda-daroz/brenda-daroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +26,4 @@ Here are some ideas to get you started:
   
   <img src="https://komarev.com/ghpvc/?username=brenda-daroz&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>### hey there 👋</h1>
