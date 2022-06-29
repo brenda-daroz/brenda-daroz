@@ -25,5 +25,7 @@ Here are some ideas to get you started:
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=brenda-daroz&style=flat-square&color=blue" alt=""/>
+  
+  <h1>hey there 👋</h1>
 </div>
-<h1>### hey there 👋</h1>
+
