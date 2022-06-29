@@ -14,18 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" class="header">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="" width="200"/>
-
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/brendadz/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=brenda-daroz&style=flat-square&color=blue" alt=""/>
-  
+<div align="center" class="header"
   <h1>hey there 👋</h1>
 </div>
 <div align="center">
@@ -58,3 +47,5 @@ I am a Front-end Developer from Brazil, currently living in Berlin.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brenda-daroz&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenda-daroz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=brenda-daroz&style=flat-square&color=blue" alt=""/>
