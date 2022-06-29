@@ -28,4 +28,6 @@ Here are some ideas to get you started:
   
   <h1>hey there 👋</h1>
 </div>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="600" height="300"/>
+</div>
