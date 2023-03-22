@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me:
 
-I am a Front-end Developer from Brazil, currently living in Berlin.
-
-- :telescope: I’m looking for a first role as a Software Engineer contributing to frontend for building web applications.
+With a PhD in Biotechnology and a passion for coding, I am excited to be transitioning into a Web Development career. I enjoy bringing designs to life with intuitive and user-friendly interfaces. With my natural leadership skills, I excel at organizing and guiding teams to achieve goals and meet deadlines. Seeking opportunities to apply my technical and organizational skills as a front-end developer in a dynamic and collaborative work environment.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-brenda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brendadz/)
 
