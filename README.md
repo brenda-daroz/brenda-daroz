@@ -40,6 +40,4 @@ With a PhD in Biotechnology and a passion for coding, I am excited to be transit
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brenda-daroz&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenda-daroz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://komarev.com/ghpvc/?username=brenda-daroz&style=flat-square&color=blue" alt=""/>
