@@ -42,5 +42,7 @@ With a PhD in Biotechnology and a passion for coding, I am excited to be transit
 
 [![Top Langs]([https://github-readme-stats.vercel.app/api](https://github-readme-stats-sigma-five.vercel.app/api)/top-langs/?username=brenda-daroz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenda-daroz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <img src="https://komarev.com/ghpvc/?username=brenda-daroz&style=flat-square&color=blue" alt=""/>
