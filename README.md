@@ -20,8 +20,6 @@ With a PhD in Biotechnology and a passion for coding, I enjoy bringing designs t
 
 ### My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brenda-daroz&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenda-daroz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://komarev.com/ghpvc/?username=brenda-daroz&style=flat-square&color=blue" alt=""/>
