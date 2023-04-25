@@ -17,9 +17,4 @@ With a PhD in Biotechnology and a passion for coding, I enjoy bringing designs t
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQlite" width="40" height="40"/>
 </div>
 
-
-### My Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenda-daroz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <img src="https://komarev.com/ghpvc/?username=brenda-daroz&style=flat-square&color=blue" alt=""/>
